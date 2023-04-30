@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(KOCHI.jpg);
+    background-size: cover;
+    background-position: fixed;
+
+}
